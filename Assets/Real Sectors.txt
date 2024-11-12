@@ -1,0 +1,41 @@
+sectors = {
+
+        "Renewable Energy": ["renewable energy", "solar", "wind", "hydro"],
+        "Fashion and Apparel": ["fashion", "apparel", "clothing", "design"]
+    }
+
+    Information Technology (IT) Services
+
+Healthcare and Pharmaceuticals
+Financial Services and Banking
+Manufacturing and Engineering
+Education and Training
+Professional Services (Consulting, Legal, Accounting)
+E-commerce and Retail
+Energy and Renewable Energy
+Telecommunications
+Construction and Infrastructure
+Transportation and Logistics
+Government and Public Administration
+Hospitality and Tourism
+Media and Entertainment
+Automotive Industry
+Real Estate and Property Development
+
+))))))))))))))))))))))))))))New(((((((((((((((((((((((((((
+Agriculture and Food Production
+
+Environmental Services
+Aerospace and Defense
+
+Nonprofit and Social Services
+Creative Arts and Design
+Insurance
+Biotechnology and Life Sciences
+Market Research and Analysis
+Human Resources and Recruitment
+Sports and Fitness
+Sales and Marketing
+Data Science and Analytics
+Customer Service and Support
+Mining and Extraction

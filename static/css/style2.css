@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+     font-family: Arial, sans-serif;
+background-image: radial-gradient(circle 500px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);
+
+   background-repeat: no-repeat;
+  background-size: cover;
+
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+}
+
+ul-class {
+    list-style-type: none;
+    padding: 0;
+}
+
+li-class {
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+}
+
+li-class:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.accordion-body {
+    font-family: Arial, sans-serif;
+background-image: linear-gradient(to top, #f5f7fa 0%, #c3cfe2 100%);
+
+}
+
+.accordion {
+
+    border-radius: 20px;
+}
+
+.accordion-item {
+    transition: transform 0.3s;
+    border-radius: 20px;
+
+}
+
+.accordion-item:hover {
+    transform: scale(1.02);
+    box-shadow: 0 0 10px 5px black;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.skill-bubbles {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.skill-bubble {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    padding: 5px 10px;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.accordion-button{
+  background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
